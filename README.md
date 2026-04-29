@@ -21,7 +21,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="50" alt="laravel"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" height="50" alt="nestjs"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react"/>
-  <img src="[https://raw.githubusercontent.com/yiisoft/yii2/master/docs/images/yii_logo.svg](https://www.pngegg.com/en/search?q=yii+2)" height="50" alt="yii2"/>
+  <img src="[https://raw.githubusercontent.com/yiisoft/yii2/master/docs/images/yii_logo.svg](https://www.pngegg.com/en/search?q=yii+2)](https://e7.pngegg.com/pngimages/825/636/png-clipart-yii-software-framework-php-laravel-model-view-controller-frame-work-text-logo.png)" height="50" alt="yii2"/>
+  <img src="" height="50" alt="yii2"/>
 </p>
 
 ---
