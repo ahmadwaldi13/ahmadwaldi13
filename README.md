@@ -13,7 +13,7 @@
 
 ## 🚀 Tech Stack
 
-<p align="left">
+<p align="center" >
 
 <!-- Go -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="go" width="40" height="40"/>
